@@ -1,6 +1,7 @@
 # Dynamic Array
 
 This solution provides a dynamic array implementation in C++ that I made during my first year of programming studies.
+The solution also contains unit test.
 
 ## DynamicArray.h
 
