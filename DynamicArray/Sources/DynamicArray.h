@@ -209,7 +209,7 @@ public:
 		if (_newCapacity > m_capacity)
 		{
 			ReAlloc(_newCapacity);
-			m_size = _newCapacity;
+			m_capacity = _newCapacity;
 		}
 	}
 
